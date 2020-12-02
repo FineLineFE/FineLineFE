@@ -11,7 +11,7 @@ Now. I'm looking for my python work and projects! 😊
 ## Work etc 💻
 1) Shopping mall banner, pop up image, alert image design
 2) Healthcare web site Web Design and Publishing
-3) 2018 Micro Suergery Academy Web Design and Publishing
+3) 2018 Micro Surgery Academy Web Design and Publishing
 4) Kids News, Kids Care site Web Design and Publishing
 5) Nike Web site clone With Python, Django (for study)
 6) Freitag Web site cline With Python, Django (for study)
