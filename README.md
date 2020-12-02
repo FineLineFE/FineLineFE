@@ -44,4 +44,8 @@ Now. I'm looking for my python work and projects! 😊
 <br />
 
 Thanks! 🙇🏻‍♀️
+
+<br />
+
+
 ![footer](https://capsule-render.vercel.app/api?section=footer)
