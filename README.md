@@ -16,6 +16,14 @@ Now. I'm looking for my python work and projects! 😊
 5) Nike Web site clone With Python, Django (for study)
 6) Freitag Web site cline With Python, Django (for study)
 
+## Use Skill list 💫
+1) Python
+2) Django
+3) Photoshop
+4) Illustrator
+5) Html
+6) CSS
+
 
 ## and study list 👩🏻‍💻
 1) CS study (한국방송통신대학교) 4 grade study(2019 ~ present)
