@@ -1,16 +1,13 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=FineLineFE&fontSize=90)
 
-<!--
-**FineLineFE/FineLineFE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Hi there 👋
 
-Here are some ideas to get you started:
+## Experience ✍🏻
+GoodHealthCare Working 2.5 month.
+Coursera CalArts Graphic Design study at 1 month.
+Ezen academy Web Design & Publish 7 month study.
+Now. I'm looking for my python work and projects! 😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![footer](https://capsule-render.vercel.app/api?section=footer)
