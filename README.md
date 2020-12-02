@@ -29,7 +29,7 @@ Now. I'm looking for my python work and projects! 😊
 
 <br />
 
-## and study list 👩🏻‍💻
+## Study list 👩🏻‍💻
 1) CS study (한국방송통신대학교) 4 grade study(2019 ~ present)
 2) Coursera Graphic Design Graduate (2019)
 3) Hanyang Women's College Graduate(한양여자대학교) (2013-2016)
@@ -38,7 +38,8 @@ Now. I'm looking for my python work and projects! 😊
 <br />
 
 ## my Profile in Notion! 💡
-1) Notion : https://www.notion.so/soohyunkim/Sarah-Kim-9dec20e1eaf04a78b1a802a3678c8ba8
+1) Notion    : https://www.notion.so/soohyunkim/Sarah-Kim-9dec20e1eaf04a78b1a802a3678c8ba8
+2) Tech Blog : https://velog.io/@finelinefe
 
 
 <br />
