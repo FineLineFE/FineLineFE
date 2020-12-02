@@ -3,7 +3,7 @@
 #### Hi there 👋
 
 ## Experience ✍🏻
-GoodHealthCare Working 2.5 month.
+GoodHealthCare Working 2.5 years.
 Coursera CalArts Graphic Design study at 1 month.
 Ezen academy Web Design & Publish 7 month study.
 Now. I'm looking for my python work and projects! 😊
