@@ -41,6 +41,7 @@ Now. I'm looking for my python work and projects! 😊
 1) Notion : https://www.notion.so/soohyunkim/Sarah-Kim-9dec20e1eaf04a78b1a802a3678c8ba8
 
 
-Thanks!
+<br />
 
+Thanks! 🙇🏻‍♀️
 ![footer](https://capsule-render.vercel.app/api?section=footer)
