@@ -22,8 +22,8 @@ Now. I'm looking for my python work and projects! 😊
 ## Use Skill list 💫
 1) Python
 2) Django
-3) Photoshop
-4) Illustrator
+3) Adobe Photoshop
+4) Adobe Illustrator
 5) Html
 6) CSS
 
