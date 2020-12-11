@@ -38,8 +38,7 @@ Now. I'm looking for my python work and projects! 😊
 <br />
 
 ## my Profile in Notion! 💡
-1) Notion    : https://www.notion.so/soohyunkim/Sarah-Kim-9dec20e1eaf04a78b1a802a3678c8ba8
-2) Tech Blog : https://velog.io/@finelinefe
+1) Tech Blog : https://velog.io/@finelinefe
 
 
 <br />
