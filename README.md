@@ -42,7 +42,7 @@ Now. I'm looking for my python work and projects! 😊
 ## Keep in touch! 💡
 1) Tech Blog : https://velog.io/@finelinefe
 
-T
+
 <br />
 
 Thanks! 🙇🏻‍♀️
