@@ -8,6 +8,8 @@ Coursera CalArts Graphic Design study at 1 month.
 Ezen academy Web Design & Publish 7 month study.
 Now. I'm looking for my python work and projects! 😊
 
+<br />
+
 ## Work etc 💻
 1) Shopping mall banner, pop up image, alert image design
 2) Healthcare web site Web Design and Publishing
@@ -37,10 +39,10 @@ Now. I'm looking for my python work and projects! 😊
 
 <br />
 
-## my Profile in Notion! 💡
+## Keep in touch! 💡
 1) Tech Blog : https://velog.io/@finelinefe
 
-
+T
 <br />
 
 Thanks! 🙇🏻‍♀️
