@@ -15,7 +15,7 @@ Now. I'm looking for my python work and projects! 😊
 4) Kids News, Kids Care site Web Design and Publishing
 5) Nike Web site clone With Python, Django (for study)
 6) Freitag Web site cline With Python, Django (for study)
-7) Working VIVA Innovation. Server Manager(2020.12~)
+7) Working VIVA Innovation. Server Back-end Manager (2020.12~)
 
 <br />
 
