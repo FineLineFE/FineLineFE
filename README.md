@@ -39,11 +39,6 @@ Now. I'm looking for my python work and projects! 😊
 
 <br />
 
-## Keep in touch! 💡
-1) Tech Blog : https://velog.io/@finelinefe
-
-
-<br />
 
 Thanks! 🙇🏻‍♀️
 
