@@ -34,7 +34,7 @@ Now. I'm looking for my python work and projects! 😊
 ## Study list 👩🏻‍💻
 1) CS study (한국방송통신대학교) 4 grade study(2019 ~ present)
 2) Coursera Graphic Design Graduate (2019)
-3) Hanyang Women's College Graduate(한양여자대학교) (2013-2016)
+3) Hanyang Women's College Graduate (2013-2016)
 
 
 <br />
