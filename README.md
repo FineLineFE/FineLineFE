@@ -5,8 +5,7 @@
 ## Experience ✍🏻
 HealthCare Working 2.5 years.
 Coursera CalArts Graphic Design study at 1 month.
-Ezen academy Web Design & Publish 7 month study.
-Now. I'm looking for my python work and projects! 😊
+Ezen academy Web Design & Publish 7 month study.😊
 
 <br />
 
@@ -17,7 +16,7 @@ Now. I'm looking for my python work and projects! 😊
 4) Kids News, Kids Care site Web Design and Publishing
 5) Nike Web site clone With Python, Django (for study)
 6) Freitag Web site cline With Python, Django (for study)
-7) Working VIVA Innovation. Server Back-end Manager (2020.12~)
+7) Working VIVA Innovation. Server Back-end Manager (2020.12~2021.03)
 
 <br />
 
@@ -32,7 +31,7 @@ Now. I'm looking for my python work and projects! 😊
 <br />
 
 ## Study list 👩🏻‍💻
-1) CS study (한국방송통신대학교) 4 grade study(2019 ~ present)
+1) CS study (한국방송통신대학교) 4 grade study(2019-2021)
 2) Coursera Graphic Design Graduate (2019)
 3) Hanyang Women's College Graduate (2013-2016)
 
