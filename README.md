@@ -3,9 +3,9 @@
 #### Hi there 👋
 
 ## Experience ✍🏻
+python Backend intern 3 months
 HealthCare Working 2.5 years.
-Coursera CalArts Graphic Design study at 1 month.
-Ezen academy Web Design & Publish 7 month study.😊
+Ezen academy Web Design & Publish 7 months study.😊
 
 <br />
 
