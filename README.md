@@ -19,10 +19,10 @@ Ezen academy Web Design & Publish 7 months study.😊
 <br />
 
 ## Use Skill list 💫
-3) Adobe Photoshop
-4) Adobe Illustrator
-5) Html
-6) CSS
+1) Adobe Photoshop
+2) Adobe Illustrator
+3) Html
+4) CSS
 
 <br />
 
